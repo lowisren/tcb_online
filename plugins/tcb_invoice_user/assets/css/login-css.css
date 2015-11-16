@@ -1,0 +1,14 @@
+.menu-member-login{
+    display: none!important;
+}
+.menu-member-dashboard{
+    display: block!important;
+}
+#wpadminbar #wp-admin-bar-user-actions.ab-submenu{
+    padding: 7px 0 26px!important;
+}
+@media (min-width: 1024px) {
+    .member-login {
+        margin-right: 300px;
+    }
+}

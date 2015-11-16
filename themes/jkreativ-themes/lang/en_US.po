@@ -1,0 +1,1532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jkreativ v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-22 17:57+0800\n"
+"PO-Revision-Date: 2014-11-13 03:36:43+0000\n"
+"Last-Translator: Agung <agungbayuiswara@gmail.com>\n"
+"Language-Team: Jegtheme <support@jegtheme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: ../404.php:18
+#@ jeg_textdomain
+msgid "404"
+msgstr "404"
+
+#: ../404.php:21
+#@ jeg_textdomain
+msgid "It look like the page you're looking for doesn't exist, sorry"
+msgstr "It look like the page you're looking for doesn't exist, sorry dimory"
+
+#: ../404.php:25 ../searchform.php:2
+#: ../woocommerce/loop/no-products-found.php:32
+#@ jeg_textdomain
+msgid "Type and Enter to Search"
+msgstr "Type and Enter to Search"
+
+#: ../archive.php:10
+#, php-format
+#@ jeg_textdomain
+msgid "Tag archive for : <b>%s</b>"
+msgstr "Tag archive for : <b>%s</b>"
+
+#: ../archive.php:12
+#, php-format
+#@ jeg_textdomain
+msgid "Post filled under : <b>%s</b>"
+msgstr "Post filled under : <b>%s</b>"
+
+#: ../archive.php:14
+#, php-format
+#@ jeg_textdomain
+msgid "Post written by : <b>%s</b>"
+msgstr "Post written by : <b>%s</b>"
+
+#: ../archive.php:16
+#, php-format
+#@ jeg_textdomain
+msgid "%s - Archive"
+msgstr "%s - Archive"
+
+#: ../comments-blog-clean.php:4 ../comments.php:4
+#@ jeg_textdomain
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: ../comments-blog-clean.php:18 ../comments.php:18
+#: ../woocommerce/single-product-reviews.php:62
+#@ jeg_textdomain
+msgid "Name"
+msgstr "Name"
+
+#: ../comments-blog-clean.php:20 ../comments.php:20
+#: ../woocommerce/single-product-reviews.php:64
+#: ../woocommerce/myaccount/form-login.php:95
+#@ jeg_textdomain
+msgid "Email"
+msgstr "Email"
+
+#: ../comments-blog-clean.php:22 ../comments.php:22
+#@ jeg_textdomain
+msgid "Website"
+msgstr "Website"
+
+#: ../comments-blog-clean.php:42 ../comments.php:42
+#, php-format
+#@ jeg_textdomain
+msgid "Required fields are marked %s"
+msgstr "Required fields are marked %s"
+
+#: ../comments-blog-clean.php:46 ../comments.php:46
+#@ jeg_textdomain
+msgid "Comment"
+msgstr "Comment"
+
+#: ../comments-blog-clean.php:47 ../comments.php:47
+#, php-format
+#@ jeg_textdomain
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: ../comments-blog-clean.php:48 ../comments.php:48
+#, php-format
+#@ jeg_textdomain
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+
+#: ../comments-blog-clean.php:49 ../comments.php:49
+#@ jeg_textdomain
+msgid "Your email address will not be published"
+msgstr "Your email address will not be published"
+
+#: ../comments-blog-clean.php:50 ../comments.php:50
+#, php-format
+#@ jeg_textdomain
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+
+#: ../comments-blog-clean.php:53 ../comments.php:53
+#@ jeg_textdomain
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: ../comments-blog-clean.php:54 ../comments.php:54
+#: ../woocommerce/single-product-reviews.php:58
+#, php-format
+#@ jeg_textdomain
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: ../comments-blog-clean.php:55 ../comments.php:55
+#@ jeg_textdomain
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: ../comments-blog-clean.php:56 ../comments.php:56
+#@ jeg_textdomain
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: ../comments-blog-clean.php:96 ../comments.php:92
+#@ jeg_textdomain
+msgid "Please login to comment"
+msgstr "Please login to comment"
+
+#: ../comments-blog-clean.php:111
+#: ../template/blogpost/article-bottom-meta-clean.php:36
+#: ../template/blogpost/article-bottom-meta.php:22
+#: ../template/blogpost/article-masonry-bottom-meta.php:23
+#@ jeg_textdomain
+msgid "No Comment Yet"
+msgstr "No Comment Yet"
+
+#: ../comments-blog-clean.php:112 ../lib/themes-functionality.php:956
+#: ../template/blogpost/article-bottom-meta-clean.php:37
+#: ../template/blogpost/article-bottom-meta.php:23
+#: ../template/blogpost/article-masonry-bottom-meta.php:24
+#@ jeg_textdomain
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: ../comments-blog-clean.php:113 ../lib/themes-functionality.php:950
+#: ../template/blogpost/article-bottom-meta-clean.php:38
+#: ../template/blogpost/article-bottom-meta.php:24
+#: ../template/blogpost/article-masonry-bottom-meta.php:25
+#@ jeg_textdomain
+msgid "% Comments"
+msgstr "% Comments"
+
+#: ../comments-blog-clean.php:118
+#@ jeg_textdomain
+msgid "Got something to say? Feel free, we'd love to hear your thoughts."
+msgstr "Got something to say? Feel free, we'd love to hear your thoughts."
+
+#: ../comments-blog-clean.php:119
+#@ jeg_textdomain
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: ../search.php:7
+#, php-format
+#@ jeg_textdomain
+msgid "Search for : <b>%s</b>"
+msgstr "Search for : <b>%s</b>"
+
+#: ../lib/build-shortcode.php:2037 ../woocommerce/single-product/rating.php:23
+#, php-format
+#@ jeg_textdomain
+msgid "Rated %.2f out of 5"
+msgstr "Rated %.2f out of 5"
+
+#: ../lib/build-shortcode.php:2103
+msgid "view all post"
+msgstr "view all post"
+
+#: ../lib/themes-functionality.php:830 ../lib/themes-functionality.php:839
+#@ jeg_textdomain
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../lib/themes-functionality.php:904 ../template/template-portfolio.php:182
+#@ jeg_textdomain
+msgid "Page"
+msgstr "Page"
+
+#: ../lib/themes-functionality.php:905 ../template/template-portfolio.php:183
+#@ jeg_textdomain
+msgid "From"
+msgstr "From"
+
+#: ../lib/themes-functionality.php:953
+#@ jeg_textdomain
+msgid "No Comments"
+msgstr "No Comments"
+
+#: ../lib/themes-functionality.php:979
+#@ jeg_textdomain
+msgid "Reply"
+msgstr "Reply"
+
+#: ../lib/themes-functionality.php:980
+#@ jeg_textdomain
+msgid "Cancel Reply"
+msgstr "Cancel Reply"
+
+#: ../lib/themes-functionality.php:989
+#@ jeg_textdomain
+msgid "Your comment is awaiting moderation"
+msgstr "Your comment is awaiting moderation"
+
+#: ../lib/themes-functionality.php:1030
+#@ jeg_textdomain
+msgid "GET DIRECTION"
+msgstr "GET DIRECTION"
+
+#: ../lib/themes-functionality.php:1128
+#: ../template/blogpost/article-sharing-big.php:6
+#: ../template/blogpost/article-sharing-clean.php:6
+#: ../template/blogpost/article-sharing.php:6
+#@ jeg_textdomain
+msgid "Tweet"
+msgstr "Tweet"
+
+#: ../lib/themes-functionality.php:1132
+#: ../template/blogpost/article-sharing-big.php:10
+#: ../template/blogpost/article-sharing-clean.php:10
+#: ../template/blogpost/article-sharing.php:10
+#@ jeg_textdomain
+msgid "Like"
+msgstr "Like"
+
+#: ../lib/themes-functionality.php:1136
+#@ jeg_textdomain
+msgid "Share"
+msgstr "Share"
+
+#: ../lib/themes-functionality.php:1140
+#@ jeg_textdomain
+msgid "Pin"
+msgstr "Pin"
+
+#: ../template/accountnavigation.php:3 ../template/mobilemenu.php:8
+#: ../template/navigation-side-woo.php:15
+#: ../woocommerce/checkout/thankyou.php:38
+#@ jeg_textdomain
+msgid "My Account"
+msgstr "My Account"
+
+#: ../template/accountnavigation.php:8
+#@ jeg_textdomain
+msgid "Edit Account"
+msgstr "Edit Account"
+
+#: ../template/accountnavigation.php:13
+#: ../woocommerce/myaccount/my-address.php:70
+#@ jeg_textdomain
+msgid "Edit Address"
+msgstr "Edit Address"
+
+#: ../template/accountnavigation.php:19
+msgid "Sign Out"
+msgstr "Sign Out"
+
+#: ../template/loading-circle.php:24
+#@ jeg_textdomain
+msgid "Loading..."
+msgstr "Loading..."
+
+#: ../template/mobilemenu.php:17
+#@ jeg_textdomain
+msgid "Shop"
+msgstr "Shop"
+
+#: ../template/mobilemenu.php:22
+#@ jeg_textdomain
+msgid "Login or Register"
+msgstr "Login or Register"
+
+#: ../template/mobilemenu.php:32 ../template/navigation-side-woo.php:29
+#: ../template/navigation-side-woo.php:41
+#: ../template/navigation-top-woo.php:38
+#, fuzzy, php-format
+#@ jeg_textdomain
+msgid "An Item"
+msgid_plural "%s Items"
+msgstr[0] "An Item"
+msgstr[1] "%s Items"
+
+#: ../template/mobilemenu.php:39
+#@ jeg_textdomain
+msgid "Logout"
+msgstr "Logout"
+
+#: ../template/mobilemenu.php:43
+#@ jeg_textdomain
+msgid "Begin Shopping"
+msgstr "Begin Shopping"
+
+#: ../template/mobilemenu.php:53
+#@ jeg_textdomain
+msgid "Social Link"
+msgstr "Social Link"
+
+#: ../template/navigation-mobile.php:2
+#@ jeg_textdomain
+msgid "Menu"
+msgstr "Menu"
+
+#: ../template/navigation-side-woo.php:33
+#@ jeg_textdomain
+msgid "My Cart"
+msgstr "My Cart"
+
+#: ../template/navigation-side-woo.php:56
+#: ../template/navigation-top-woo.php:53
+#@ jeg_textdomain
+msgid "Quantity :"
+msgstr "Quantity :"
+
+#: ../template/navigation-side-woo.php:64
+#: ../template/navigation-top-woo.php:61
+#@ jeg_textdomain
+msgid "remove"
+msgstr "remove"
+
+#: ../template/navigation-side-woo.php:73
+#: ../template/navigation-top-woo.php:70
+#@ jeg_textdomain
+msgid "CART SUBTOTAL"
+msgstr "CART SUBTOTAL"
+
+#: ../template/navigation-side-woo.php:78
+#: ../template/navigation-top-woo.php:75 ../woocommerce/cart/mini-cart.php:70
+#@ jeg_textdomain
+msgid "View Cart"
+msgstr "View Cart"
+
+#: ../template/navigation-side-woo.php:81
+#: ../template/navigation-top-woo.php:78 ../woocommerce/cart/mini-cart.php:71
+#: ../woocommerce/checkout/form-pay.php:27
+#@ jeg_textdomain
+msgid "Checkout"
+msgstr "Checkout"
+
+#: ../template/navigation-side-woo.php:88
+#: ../template/navigation-top-woo.php:85
+#@ jeg_textdomain
+msgid "Your cart is currently empty"
+msgstr "Your cart is currently empty"
+
+#: ../template/navigation-side-woo.php:89
+#: ../template/navigation-top-woo.php:86 ../woocommerce/cart/cart-empty.php:30
+#@ jeg_textdomain
+msgid "&larr; Return To Shop"
+msgstr "&larr; Return To Shop"
+
+#: ../template/navigation-top-woo.php:19
+#@ jeg_textdomain
+msgid "Account"
+msgstr "Account"
+
+#: ../template/nowrap-checkout.php:20
+#@ jeg_textdomain
+msgid "checkout"
+msgstr "checkout"
+
+#: ../template/password-form.php:6
+#: ../template/portfolio/portfolio-fragment-theather.php:86
+#: ../template/portfolio/portfolio-single.php:92
+#@ jeg_textdomain
+msgid "Enter Your Password"
+msgstr "Enter Your Password"
+
+#: ../template/template-blog-masonry.php:23
+#: ../template/template-blog-masonry.php:24
+#: ../template/template-blog-masonry.php:64
+#@ jeg_textdomain
+msgid "Blog Sort &amp; Filter"
+msgstr "Blog Sort &amp; Filter"
+
+#: ../template/template-blog-masonry.php:29
+#: ../template/template-blog-masonry.php:68
+#@ jeg_textdomain
+msgid "Sort blog by :"
+msgstr "Sort blog by :"
+
+#: ../template/template-blog-masonry.php:30
+#: ../template/template-blog-masonry.php:69
+#@ jeg_textdomain
+msgid "Sort by"
+msgstr "Sort by"
+
+#: ../template/template-blog-masonry.php:31
+#: ../template/template-blog-masonry.php:70
+#@ jeg_textdomain
+msgid "Popularity"
+msgstr "Popularity"
+
+#: ../template/template-blog-masonry.php:32
+#: ../template/template-blog-masonry.php:71
+#: ../woocommerce/myaccount/my-orders.php:33
+#@ jeg_textdomain
+msgid "Date"
+msgstr "Date"
+
+#: ../template/template-blog-masonry.php:35
+#: ../template/template-blog-masonry.php:75
+#@ jeg_textdomain
+msgid "Filter blog category :"
+msgstr "Filter blog category :"
+
+#: ../template/template-blog-masonry.php:36
+#: ../template/template-blog-masonry.php:76
+msgid "Filter by"
+msgstr "Filter by"
+
+#: ../template/template-blog-masonry.php:37
+#: ../template/template-blog-masonry.php:77
+#: ../template/template-portfolio.php:35 ../template/template-portfolio.php:77
+#@ jeg_textdomain
+msgid "All Category"
+msgstr "All Category"
+
+#: ../template/template-blog-masonry.php:144
+#: ../template/template-blog-wide.php:53 ../template/template-blog.php:68
+#: ../template/additional/masonry-layout.php:48
+#: ../template/additional/normal-layout.php:40
+#@ jeg_textdomain
+msgid "Post Not Found"
+msgstr "Post Not Found"
+
+#: ../template/template-contact-full-map.php:39
+#@ jeg_textdomain
+msgid "Location"
+msgstr "Location"
+
+#: ../template/template-contact-full-map.php:52
+#@ jeg_textdomain
+msgid "Contact"
+msgstr "Contact"
+
+#: ../template/template-page-cover.php:48
+#: ../template/template-page-normal.php:49
+#: ../template/template-page-wide.php:53
+#: ../template/blogpost/single-clean-layout.php:33
+#: ../template/blogpost/single-cover-layout.php:39
+#: ../template/blogpost/single-extra-layout.php:49
+#: ../template/blogpost/single-normal-layout.php:39
+#@ jeg_textdomain
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../template/blogpost/article-bottom-meta-clean.php:4
+#: ../template/blogpost/article-bottom-meta.php:4
+#: ../template/blogpost/article-masonry-bottom-meta.php:4
+#@ jeg_textdomain
+msgid "Filled under :"
+msgstr "Filled under :"
+
+#: ../template/blogpost/article-bottom-meta-clean.php:19
+#: ../template/blogpost/article-bottom-meta.php:32
+#: ../template/blogpost/article-masonry-bottom-meta.php:33
+#@ jeg_textdomain
+msgid "Tagged on :"
+msgstr "Tagged on :"
+
+#: ../template/blogpost/article-bottom-meta-clean.php:33
+#: ../template/blogpost/article-bottom-meta.php:19
+#@ jeg_textdomain
+msgid "Response:"
+msgstr "Response:"
+
+#: ../template/blogpost/article-masonry-bottom-meta.php:17
+#@ jeg_textdomain
+msgid "Author :"
+msgstr "Author :"
+
+#: ../template/blogpost/article-masonry-bottom-meta.php:20
+#@ jeg_textdomain
+msgid "Comment Number :"
+msgstr "Comment Number :"
+
+#: ../template/blogpost/article-sharing-big.php:14
+#: ../template/blogpost/article-sharing-clean.php:14
+#: ../template/blogpost/article-sharing.php:14
+#@ jeg_textdomain
+msgid "+1"
+msgstr "+1"
+
+#: ../template/blogpost/article-sharing-big.php:18
+#: ../template/blogpost/article-sharing-clean.php:18
+#: ../template/blogpost/article-sharing.php:18
+#@ jeg_textdomain
+msgid "Pin It"
+msgstr "Pin It"
+
+#: ../template/blogpost/blog-shortcode.php:23
+msgid "Posted by "
+msgstr "Posted by "
+
+#: ../template/blogpost/masonry-ads.php:4
+#@ jeg_textdomain
+msgid "Advertisement"
+msgstr "Advertisement"
+
+#: ../template/landing/section-content-builder.php:85
+msgid "parallax layer"
+msgstr "parallax layer"
+
+#: ../template/landing/section-heading-parallax-slider.php:116
+#: ../template/landing/section-heading-parallax-slider.php:121
+#: ../template/landing/section-heading-parallax-slider.php:126
+#@ jeg_textdomain
+msgid "View Video"
+msgstr "View Video"
+
+#: ../template/portfolio/portfolio-fragment-content.php:11
+#: ../template/portfolio/portfolio-fragment-theather.php:15
+#: ../template/portfolio/portfolio-single.php:28
+#: ../template/portfolio/template-portfolio-ajax.php:28
+#@ jeg_textdomain
+msgid "Share this portfolio"
+msgstr "Share this portfolio"
+
+#: ../template/portfolio/portfolio-fragment-content.php:18
+#: ../template/portfolio/portfolio-fragment-theather.php:22
+#: ../template/portfolio/portfolio-single.php:49
+#: ../template/portfolio/template-portfolio-ajax.php:49
+#@ jeg_textdomain
+msgid "Previous Portfolio"
+msgstr "Previous Portfolio"
+
+#: ../template/portfolio/portfolio-fragment-content.php:25
+#: ../template/portfolio/portfolio-fragment-theather.php:29
+#: ../template/portfolio/portfolio-single.php:56
+#: ../template/portfolio/template-portfolio-ajax.php:56
+#@ jeg_textdomain
+msgid "Next Portfolio"
+msgstr "Next Portfolio"
+
+#: ../template/portfolio/portfolio-fragment-content.php:32
+#: ../template/portfolio/portfolio-fragment-theather.php:36
+#: ../template/portfolio/portfolio-single.php:63
+#: ../template/portfolio/template-portfolio-ajax.php:63
+#@ jeg_textdomain
+msgid "Portfolio Detail"
+msgstr "Portfolio Detail"
+
+#: ../template/portfolio/portfolio-fragment-content.php:39
+#@ jeg_textdomain
+msgid "Show portfolio list"
+msgstr "Show portfolio list"
+
+#: ../template/portfolio/portfolio-fragment-content.php:46
+#: ../template/portfolio/portfolio-fragment-theather.php:50
+#: ../template/portfolio/portfolio-single.php:77
+#: ../template/portfolio/template-portfolio-ajax.php:77
+#: ../template/portfolio/template-portfolio-cover.php:40
+#: ../template/portfolio/template-portfolio-cover.php:78
+#@ jeg_textdomain
+msgid "Close Video"
+msgstr "Close Video"
+
+#: ../template/portfolio/portfolio-fragment-content.php:66
+#: ../template/portfolio/portfolio-fragment-theather.php:112
+#: ../template/portfolio/portfolio-single.php:212
+#: ../template/portfolio/template-portfolio-ajax.php:170
+#@ jeg_textdomain
+msgid "Share Our Portfolio"
+msgstr "Share Our Portfolio"
+
+#: ../template/portfolio/portfolio-fragment-content.php:70
+#: ../template/portfolio/portfolio-fragment-theather.php:116
+#: ../template/portfolio/portfolio-single.php:216
+#: ../template/portfolio/template-portfolio-ajax.php:174
+#@ jeg_textdomain
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: ../template/portfolio/portfolio-fragment-content.php:73
+#: ../template/portfolio/portfolio-fragment-theather.php:119
+#: ../template/portfolio/portfolio-single.php:219
+#: ../template/portfolio/template-portfolio-ajax.php:177
+#@ jeg_textdomain
+msgid "Tweet on Twitter"
+msgstr "Tweet on Twitter"
+
+#: ../template/portfolio/portfolio-fragment-content.php:76
+#: ../template/portfolio/portfolio-fragment-theather.php:122
+#: ../template/portfolio/portfolio-single.php:222
+#: ../template/portfolio/template-portfolio-ajax.php:180
+#@ jeg_textdomain
+msgid "Share on Google Plus"
+msgstr "Share on Google Plus"
+
+#: ../template/portfolio/portfolio-fragment-content.php:79
+#: ../template/portfolio/portfolio-fragment-theather.php:125
+#: ../template/portfolio/portfolio-single.php:225
+#: ../template/portfolio/template-portfolio-ajax.php:183
+#@ jeg_textdomain
+msgid "Pin on Pinterest"
+msgstr "Pin on Pinterest"
+
+#: ../template/portfolio/portfolio-fragment-theather.php:43
+#: ../template/portfolio/portfolio-single.php:70
+#: ../template/portfolio/template-portfolio-ajax.php:70
+#@ jeg_textdomain
+msgid "Portfolio List"
+msgstr "Portfolio List"
+
+#: ../template/portfolio/portfolio-fragment-theather.php:90
+#: ../woocommerce/myaccount/form-login.php:47
+#: ../woocommerce/myaccount/form-login.php:100
+#: ../woocommerce/shop/form-login.php:24
+#@ jeg_textdomain
+msgid "Password"
+msgstr "Password"
+
+#: ../template/portfolio/portfolio-single.php:100
+#: ../template/portfolio/portfolio-single.php:120
+#: ../woocommerce/single-product-reviews.php:67
+#@ jeg_textdomain
+msgid "Submit"
+msgstr "Submit"
+
+#: ../template/portfolio/portfolio-single.php:112
+#@ jeg_textdomain
+msgid "Wrong Password"
+msgstr "Wrong Password"
+
+#: ../template/portfolio/template-portfolio-cover.php:141
+#: ../template/portfolio/template-portfolio-side.php:114
+#@ jeg_textdomain
+msgid "prev"
+msgstr "prev"
+
+#: ../template/portfolio/template-portfolio-cover.php:144
+#: ../template/portfolio/template-portfolio-side.php:117
+msgid "list"
+msgstr "list"
+
+#: ../template/portfolio/template-portfolio-cover.php:147
+#: ../template/portfolio/template-portfolio-side.php:120
+#@ jeg_textdomain
+msgid "next"
+msgstr "next"
+
+#: ../template/portfolio/template-portfolio-landing.php:50
+#@ jeg_textdomain
+msgid "Previous: "
+msgstr "Previous: "
+
+#: ../template/portfolio/template-portfolio-landing.php:60
+#@ jeg_textdomain
+msgid "Next: "
+msgstr "Next: "
+
+#: ../tgm/class-tgm-plugin-activation.php:159 ../tgm/plugin-list.php:147
+#, php-format
+#@ jeg_textdomain
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:160 ../tgm/plugin-list.php:148
+#, php-format
+#@ jeg_textdomain
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:161 ../tgm/plugin-list.php:149
+#, php-format
+#@ jeg_textdomain
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr[1] "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+
+#: ../tgm/class-tgm-plugin-activation.php:162 ../tgm/plugin-list.php:150
+#, php-format
+#@ jeg_textdomain
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:163 ../tgm/plugin-list.php:151
+#, php-format
+#@ jeg_textdomain
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:164 ../tgm/plugin-list.php:152
+#, php-format
+#@ jeg_textdomain
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr[1] "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+
+#: ../tgm/class-tgm-plugin-activation.php:165 ../tgm/plugin-list.php:153
+#, php-format
+#@ jeg_textdomain
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:166 ../tgm/plugin-list.php:154
+#, php-format
+#@ jeg_textdomain
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr[1] "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+
+#: ../tgm/class-tgm-plugin-activation.php:167 ../tgm/plugin-list.php:155
+#@ jeg_textdomain
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: ../tgm/class-tgm-plugin-activation.php:168 ../tgm/plugin-list.php:156
+#@ jeg_textdomain
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugin"
+msgstr[1] "Activate installed plugins"
+
+#: ../tgm/class-tgm-plugin-activation.php:1671
+#@ jeg_textdomain
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#: ../tgm/class-tgm-plugin-activation.php:2185
+#@ jeg_textdomain
+msgid "Return to the Dashboard</a>"
+msgstr "Return to the Dashboard</a>"
+
+#: ../woocommerce/content-product.php:66
+#@ jeg_textdomain
+msgid "View Detail"
+msgstr "View Detail"
+
+#: ../woocommerce/content-shop.php:21
+#, php-format
+#@ jeg_textdomain
+msgid "Product Category : <b>%s</b>"
+msgstr "Product Category : <b>%s</b>"
+
+#: ../woocommerce/content-shop.php:23
+#, php-format
+#@ jeg_textdomain
+msgid "Product Tag : <b>%s</b>"
+msgstr "Product Tag : <b>%s</b>"
+
+#: ../woocommerce/single-product-reviews.php:21
+#, php-format
+#@ jeg_textdomain
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s review for %s"
+msgstr[1] "%s reviews for %s"
+
+#: ../woocommerce/single-product-reviews.php:23
+#@ jeg_textdomain
+msgid "Reviews"
+msgstr "Reviews"
+
+#: ../woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr "There are no reviews yet."
+
+#: ../woocommerce/single-product-reviews.php:57
+#@ jeg_textdomain
+msgid "Add a review"
+msgstr "Add a review"
+
+#: ../woocommerce/single-product-reviews.php:57
+#@ jeg_textdomain
+msgid "Be the first to review"
+msgstr "Be the first to review"
+
+#: ../woocommerce/single-product-reviews.php:73
+#@ jeg_textdomain
+msgid "Your Rating"
+msgstr "Your Rating"
+
+#: ../woocommerce/single-product-reviews.php:74
+#@ jeg_textdomain
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: ../woocommerce/single-product-reviews.php:75
+#@ jeg_textdomain
+msgid "Perfect"
+msgstr "Perfect"
+
+#: ../woocommerce/single-product-reviews.php:76
+#@ jeg_textdomain
+msgid "Good"
+msgstr "Good"
+
+#: ../woocommerce/single-product-reviews.php:77
+#@ jeg_textdomain
+msgid "Average"
+msgstr "Average"
+
+#: ../woocommerce/single-product-reviews.php:78
+#@ jeg_textdomain
+msgid "Not that bad"
+msgstr "Not that bad"
+
+#: ../woocommerce/single-product-reviews.php:79
+#@ jeg_textdomain
+msgid "Very Poor"
+msgstr "Very Poor"
+
+#: ../woocommerce/single-product-reviews.php:83
+#@ jeg_textdomain
+msgid "Your Review"
+msgstr "Your Review"
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Only logged in customers who have purchased this product may leave a review."
+
+#: ../woocommerce/cart/cart-empty.php:22 ../woocommerce/cart/cart.php:21
+#@ jeg_textdomain
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+#: ../woocommerce/cart/cart-empty.php:29
+#@ jeg_textdomain
+msgid "Your cart is currently empty."
+msgstr "Your cart is currently empty."
+
+#: ../woocommerce/cart/cart.php:41
+#@ jeg_textdomain
+msgid "Item"
+msgstr "Item"
+
+#: ../woocommerce/cart/cart.php:42
+#@ jeg_textdomain
+msgid "Quantity"
+msgstr "Quantity"
+
+#: ../woocommerce/cart/cart.php:43 ../woocommerce/cart/totals.php:92
+#: ../woocommerce/checkout/review-order.php:19
+#: ../woocommerce/myaccount/my-orders.php:35
+#: ../woocommerce/order/order-details.php:21
+#@ jeg_textdomain
+msgid "Total"
+msgstr "Total"
+
+#: ../woocommerce/cart/cart.php:59
+#@ jeg_textdomain
+msgid "Remove this item"
+msgstr "Remove this item"
+
+#: ../woocommerce/cart/cart.php:88
+#@ jeg_textdomain
+msgid "Available on backorder"
+msgstr "Available on backorder"
+
+#: ../woocommerce/cart/cart.php:137 ../woocommerce/checkout/form-coupon.php:17
+#@ jeg_textdomain
+msgid "Have a coupon?"
+msgstr "Have a coupon?"
+
+#: ../woocommerce/cart/cart.php:139
+#@ jeg_textdomain
+msgid "Enter coupon code"
+msgstr "Enter coupon code"
+
+#: ../woocommerce/cart/cart.php:140
+#@ jeg_textdomain
+msgid "Apply"
+msgstr "Apply"
+
+#: ../woocommerce/cart/cart.php:148
+#@ jeg_textdomain
+msgid "Update Cart"
+msgstr "Update Cart"
+
+#: ../woocommerce/cart/cart.php:149
+#@ jeg_textdomain
+msgid "Proceed to Checkout &rarr;"
+msgstr "Proceed to Checkout &rarr;"
+
+#: ../woocommerce/cart/mini-cart.php:57
+#@ jeg_textdomain
+msgid "No products in the cart."
+msgstr "No products in the cart."
+
+#: ../woocommerce/cart/mini-cart.php:65 ../woocommerce/cart/totals.php:28
+#@ jeg_textdomain
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+#@ jeg_textdomain
+msgid "Calculate Shipping"
+msgstr "Calculate Shipping"
+
+#: ../woocommerce/cart/shipping-calculator.php:28
+#@ jeg_textdomain
+msgid "Select a country&hellip;"
+msgstr "Select a country&hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:45
+#: ../woocommerce/cart/shipping-calculator.php:51
+#: ../woocommerce/cart/shipping-calculator.php:63
+#@ jeg_textdomain
+msgid "State / county"
+msgstr "State / county"
+
+#: ../woocommerce/cart/shipping-calculator.php:52
+#@ jeg_textdomain
+msgid "Select a state&hellip;"
+msgstr "Select a state&hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+#@ jeg_textdomain
+msgid "City"
+msgstr "City"
+
+#: ../woocommerce/cart/shipping-calculator.php:80
+#@ jeg_textdomain
+msgid "Postcode / Zip"
+msgstr "Postcode / Zip"
+
+#: ../woocommerce/cart/shipping-calculator.php:85
+#@ jeg_textdomain
+msgid "Update Totals"
+msgstr "Update Totals"
+
+#: ../woocommerce/cart/totals.php:22
+#@ jeg_textdomain
+msgid "Shopping Cart Totals"
+msgstr "Shopping Cart Totals"
+
+#: ../woocommerce/cart/totals.php:35
+#@ jeg_textdomain
+msgid "Cart Discount"
+msgstr "Cart Discount"
+
+#: ../woocommerce/cart/totals.php:35 ../woocommerce/cart/totals.php:83
+#@ jeg_textdomain
+msgid "[Remove]"
+msgstr "[Remove]"
+
+#: ../woocommerce/cart/totals.php:46
+#@ jeg_textdomain
+msgid "Shipping"
+msgstr "Shipping"
+
+#: ../woocommerce/cart/totals.php:83
+#@ jeg_textdomain
+msgid "Order Discount"
+msgstr "Order Discount"
+
+#: ../woocommerce/cart/totals.php:105
+#, php-format
+#@ jeg_textdomain
+msgid "(Includes %s)"
+msgstr "(Includes %s)"
+
+#: ../woocommerce/cart/totals.php:121
+#, php-format
+#@ jeg_textdomain
+msgid " (taxes estimated for %s)"
+msgstr " (taxes estimated for %s)"
+
+#: ../woocommerce/cart/totals.php:123
+#, php-format
+#@ jeg_textdomain
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+
+#: ../woocommerce/cart/totals.php:135
+#@ jeg_textdomain
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+msgstr "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+
+#: ../woocommerce/cart/totals.php:147
+#, php-format
+#@ jeg_textdomain
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr "Sorry, it seems that there are no available shipping methods for your location (%s)."
+
+#: ../woocommerce/cart/totals.php:147
+#@ jeg_textdomain
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr "If you require assistance or wish to make alternate arrangements please contact us."
+
+#: ../woocommerce/checkout/form-checkout.php:17
+#@ jeg_textdomain
+msgid "You must be logged in to checkout."
+msgstr "You must be logged in to checkout."
+
+#: ../woocommerce/checkout/form-checkout.php:39
+#@ jeg_textdomain
+msgid "Your order"
+msgstr "Your order"
+
+#: ../woocommerce/checkout/form-coupon.php:20
+#@ jeg_textdomain
+msgid "Click here to enter your code"
+msgstr "Click here to enter your code"
+
+#: ../woocommerce/checkout/form-coupon.php:25
+#@ jeg_textdomain
+msgid "Coupon code"
+msgstr "Coupon code"
+
+#: ../woocommerce/checkout/form-coupon.php:29
+#@ jeg_textdomain
+msgid "Apply Coupon"
+msgstr "Apply Coupon"
+
+#: ../woocommerce/checkout/form-pay.php:37
+#: ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/order/order-details.php:20
+#@ jeg_textdomain
+msgid "Product"
+msgstr "Product"
+
+#: ../woocommerce/checkout/form-pay.php:38
+#@ jeg_textdomain
+msgid "Totals"
+msgstr "Totals"
+
+#: ../woocommerce/checkout/form-pay.php:94
+#@ jeg_textdomain
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+
+#: ../woocommerce/checkout/form-pay.php:103
+#@ jeg_textdomain
+msgid "Pay for order"
+msgstr "Pay for order"
+
+#: ../woocommerce/checkout/form-shipping.php:31
+#@ jeg_textdomain
+msgid "Ship to a different address?"
+msgstr "Ship to a different address?"
+
+#: ../woocommerce/checkout/form-shipping.php:36
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:133
+#@ jeg_textdomain
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: ../woocommerce/checkout/form-shipping.php:58
+#@ jeg_textdomain
+msgid "Additional Information"
+msgstr "Additional Information"
+
+#: ../woocommerce/checkout/review-order.php:25
+#@ jeg_textdomain
+msgid "Cart Subtotal"
+msgstr "Cart Subtotal"
+
+#: ../woocommerce/checkout/review-order.php:79
+#@ jeg_textdomain
+msgid "Order Total"
+msgstr "Order Total"
+
+#: ../woocommerce/checkout/review-order.php:150
+#@ jeg_textdomain
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Please fill in your details above to see available payment methods."
+
+#: ../woocommerce/checkout/review-order.php:152
+#@ jeg_textdomain
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+
+#: ../woocommerce/checkout/review-order.php:163
+#@ jeg_textdomain
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+
+#: ../woocommerce/checkout/review-order.php:163
+#@ jeg_textdomain
+msgid "Update totals"
+msgstr "Update totals"
+
+#: ../woocommerce/checkout/review-order.php:170
+#@ jeg_textdomain
+msgid "Place order"
+msgstr "Place order"
+
+#: ../woocommerce/checkout/review-order.php:179
+#, php-format
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+
+#: ../woocommerce/checkout/thankyou.php:26
+#@ jeg_textdomain
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+
+#: ../woocommerce/checkout/thankyou.php:30
+#@ jeg_textdomain
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Please attempt your purchase again or go to your account page."
+
+#: ../woocommerce/checkout/thankyou.php:32
+#@ jeg_textdomain
+msgid "Please attempt your purchase again."
+msgstr "Please attempt your purchase again."
+
+#: ../woocommerce/checkout/thankyou.php:36
+#: ../woocommerce/myaccount/my-orders.php:71
+#@ jeg_textdomain
+msgid "Pay"
+msgstr "Pay"
+
+#: ../woocommerce/checkout/thankyou.php:45
+#: ../woocommerce/checkout/thankyou.php:79
+#@ jeg_textdomain
+msgid "Thank You"
+msgstr "Thank You"
+
+#: ../woocommerce/checkout/thankyou.php:48
+#: ../woocommerce/checkout/thankyou.php:81
+#@ jeg_textdomain
+msgid "Thank you. Your order has been received."
+msgstr "Thank you. Your order has been received."
+
+#: ../woocommerce/checkout/thankyou.php:52
+#@ jeg_textdomain
+msgid "Order:"
+msgstr "Order:"
+
+#: ../woocommerce/checkout/thankyou.php:56
+#@ jeg_textdomain
+msgid "Date:"
+msgstr "Date:"
+
+#: ../woocommerce/checkout/thankyou.php:60
+#@ jeg_textdomain
+msgid "Total:"
+msgstr "Total:"
+
+#: ../woocommerce/checkout/thankyou.php:65
+#@ jeg_textdomain
+msgid "Payment method:"
+msgstr "Payment method:"
+
+#: ../woocommerce/loop/no-products-found.php:25
+msgid "Sorry"
+msgstr "Sorry"
+
+#: ../woocommerce/loop/no-products-found.php:28
+#@ jeg_textdomain
+msgid "No product found at this time."
+msgstr "No product found at this time."
+
+#: ../woocommerce/myaccount/account-navigation.php:8
+#@ jeg_textdomain
+msgid "Sign out"
+msgstr "Sign out"
+
+#: ../woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr "First name"
+
+#: ../woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr "Last name"
+
+#: ../woocommerce/myaccount/form-edit-account.php:28
+#@ jeg_textdomain
+msgid "Email address"
+msgstr "Email address"
+
+#: ../woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr "Password (leave blank to leave unchanged)"
+
+#: ../woocommerce/myaccount/form-edit-account.php:36
+#@ jeg_textdomain
+msgid "Confirm new password"
+msgstr "Confirm new password"
+
+#: ../woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr "Save changes"
+
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:118
+#@ jeg_textdomain
+msgid "Billing Address"
+msgstr "Billing Address"
+
+#: ../woocommerce/myaccount/form-edit-address.php:38
+#@ jeg_textdomain
+msgid "Save Address"
+msgstr "Save Address"
+
+#: ../woocommerce/myaccount/form-login.php:24
+#: ../woocommerce/myaccount/form-login.php:31
+#@ jeg_textdomain
+msgid "Customer Login"
+msgstr "Customer Login"
+
+#: ../woocommerce/myaccount/form-login.php:43
+#: ../woocommerce/myaccount/form-lost-password.php:36
+#: ../woocommerce/shop/form-login.php:20
+#@ jeg_textdomain
+msgid "Username or email"
+msgstr "Username or email"
+
+#: ../woocommerce/myaccount/form-login.php:56
+#: ../woocommerce/shop/form-login.php:31
+#@ jeg_textdomain
+msgid "Login"
+msgstr "Login"
+
+#: ../woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr "Remember me"
+
+#: ../woocommerce/myaccount/form-login.php:62
+#@ jeg_textdomain
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: ../woocommerce/myaccount/form-login.php:77
+#: ../woocommerce/myaccount/form-login.php:83
+#@ jeg_textdomain
+msgid "Register New Account"
+msgstr "Register New Account"
+
+#: ../woocommerce/myaccount/form-login.php:90
+#@ jeg_textdomain
+msgid "Username"
+msgstr "Username"
+
+#: ../woocommerce/myaccount/form-login.php:104
+#@ jeg_textdomain
+msgid "Re-enter password"
+msgstr "Re-enter password"
+
+#: ../woocommerce/myaccount/form-login.php:112
+#@ jeg_textdomain
+msgid "Register"
+msgstr "Register"
+
+#: ../woocommerce/myaccount/form-lost-password.php:33
+#@ jeg_textdomain
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+
+#: ../woocommerce/myaccount/form-lost-password.php:41
+#@ jeg_textdomain
+msgid "Enter a new password below."
+msgstr "Enter a new password below."
+
+#: ../woocommerce/myaccount/form-lost-password.php:46
+#@ jeg_textdomain
+msgid "New password"
+msgstr "New password"
+
+#: ../woocommerce/myaccount/form-lost-password.php:50
+#@ jeg_textdomain
+msgid "Re-enter new password"
+msgstr "Re-enter new password"
+
+#: ../woocommerce/myaccount/form-lost-password.php:61
+#@ jeg_textdomain
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: ../woocommerce/myaccount/form-lost-password.php:61
+#@ jeg_textdomain
+msgid "Save"
+msgstr "Save"
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+#@ jeg_textdomain
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
+msgstr "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
+
+#: ../woocommerce/myaccount/my-address.php:17
+#@ jeg_textdomain
+msgid "My Addresses"
+msgstr "My Addresses"
+
+#: ../woocommerce/myaccount/my-address.php:23
+#@ jeg_textdomain
+msgid "My Address"
+msgstr "My Address"
+
+#: ../woocommerce/myaccount/my-address.php:35
+#@ jeg_textdomain
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "The following addresses will be used on the checkout page by default."
+
+#: ../woocommerce/myaccount/my-address.php:63
+#@ jeg_textdomain
+msgid "You have not set up this type of address yet."
+msgstr "You have not set up this type of address yet."
+
+#: ../woocommerce/myaccount/my-orders.php:26
+#@ jeg_textdomain
+msgid "Recent Orders"
+msgstr "Recent Orders"
+
+#: ../woocommerce/myaccount/my-orders.php:32
+#@ jeg_textdomain
+msgid "Order"
+msgstr "Order"
+
+#: ../woocommerce/myaccount/my-orders.php:34
+#@ jeg_textdomain
+msgid "Status"
+msgstr "Status"
+
+#: ../woocommerce/myaccount/my-orders.php:36
+#@ jeg_textdomain
+msgid "Detail"
+msgstr "Detail"
+
+#: ../woocommerce/myaccount/my-orders.php:62
+#, php-format
+#@ jeg_textdomain
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s for %s item"
+msgstr[1] "%s for %s items"
+
+#: ../woocommerce/myaccount/my-orders.php:78
+#@ jeg_textdomain
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../woocommerce/myaccount/my-orders.php:84
+#@ jeg_textdomain
+msgid "View"
+msgstr "View"
+
+#: ../woocommerce/order/form-tracking.php:17
+#@ jeg_textdomain
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+
+#: ../woocommerce/order/form-tracking.php:19
+#@ jeg_textdomain
+msgid "Order ID"
+msgstr "Order ID"
+
+#: ../woocommerce/order/form-tracking.php:19
+#@ jeg_textdomain
+msgid "Found in your order confirmation email."
+msgstr "Found in your order confirmation email."
+
+#: ../woocommerce/order/form-tracking.php:20
+#@ jeg_textdomain
+msgid "Billing Email"
+msgstr "Billing Email"
+
+#: ../woocommerce/order/form-tracking.php:20
+#@ jeg_textdomain
+msgid "Email you used during checkout."
+msgstr "Email you used during checkout."
+
+#: ../woocommerce/order/form-tracking.php:23
+#@ jeg_textdomain
+msgid "Track"
+msgstr "Track"
+
+#: ../woocommerce/order/order-details.php:16
+#@ jeg_textdomain
+msgid "Order Details"
+msgstr "Order Details"
+
+#: ../woocommerce/order/order-details.php:66
+#, php-format
+#@ jeg_textdomain
+msgid "Download file%s"
+msgstr "Download file%s"
+
+#: ../woocommerce/order/order-details.php:97
+#@ jeg_textdomain
+msgid "Customer details"
+msgstr "Customer details"
+
+#: ../woocommerce/order/order-details.php:101
+#@ jeg_textdomain
+msgid "Email:"
+msgstr "Email:"
+
+#: ../woocommerce/order/order-details.php:102
+#@ jeg_textdomain
+msgid "Telephone:"
+msgstr "Telephone:"
+
+#: ../woocommerce/order/order-details.php:122
+#: ../woocommerce/order/order-details.php:137
+#@ jeg_textdomain
+msgid "N/A"
+msgstr "N/A"
+
+#: ../woocommerce/order/tracking.php:18
+#, php-format
+#@ jeg_textdomain
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+
+#: ../woocommerce/order/tracking.php:18
+#@ jeg_textdomain
+msgid "ago"
+msgstr "ago"
+
+#: ../woocommerce/order/tracking.php:20
+#@ jeg_textdomain
+msgid "and was completed"
+msgstr "and was completed"
+
+#: ../woocommerce/order/tracking.php:20
+#@ jeg_textdomain
+msgid " ago"
+msgstr " ago"
+
+#: ../woocommerce/order/tracking.php:31
+#@ jeg_textdomain
+msgid "Order Updates"
+msgstr "Order Updates"
+
+#: ../woocommerce/order/tracking.php:37
+#@ jeg_textdomain
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: ../woocommerce/shop/form-login.php:33
+#@ jeg_textdomain
+msgid "Lost Password?"
+msgstr "Lost Password?"
+
+#: ../woocommerce/single-product/rating.php:27
+#, php-format
+#@ jeg_textdomain
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s review"
+msgstr[1] "%s reviews"
+
+#: ../woocommerce/single-product/review.php:26
+#: ../woocommerce/single-product/review.php:30
+#, php-format
+#@ jeg_textdomain
+msgid "Rated %d out of 5"
+msgstr "Rated %d out of 5"
+
+#: ../woocommerce/single-product/review.php:37
+#@ jeg_textdomain
+msgid "Your comment is awaiting approval"
+msgstr "Your comment is awaiting approval"
+
+#: ../woocommerce/single-product/review.php:46
+#@ jeg_textdomain
+msgid "verified owner"
+msgstr "verified owner"
+
+#: ../woocommerce/single-product/sale-flash.php:16
+#@ jeg_textdomain
+msgid "Sale!"
+msgstr "Sale!"
+
+#: ../woocommerce/single-product/add-to-cart/quantity.php:12
+#@ jeg_textdomain
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qty"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+#@ jeg_textdomain
+msgid "Choose an option"
+msgstr "Choose an option"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+#@ jeg_textdomain
+msgid "Clear selection"
+msgstr "Clear selection"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr "This product is currently out of stock and unavailable."
+

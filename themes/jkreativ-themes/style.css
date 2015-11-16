@@ -1,0 +1,102 @@
+/*
+Theme Name: Jkreativ
+Version: 2.2.7
+Theme URI: http://themeforest.net
+Description: Jkreativ.
+Author: Jegtheme
+Author URI: http://jegtheme.com/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: gray, light, left-sidebar, right-sidebar, custom-background,custom-colors, custom-menu, editor-style, featured-images, front-page-post-form, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, photoblogging
+*/
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{color:#000;font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}button,html,input,select,textarea{font-family:sans-serif}body{margin:0}a:active,a:focus,a:hover{outline:0}h1{font-size:30px;margin:.67em 0}h2{font-size:26px;margin:.83em 0}h3{font-size:22px;margin:1em 0}h4{font-size:18px;margin:1.33em 0}h5{font-size:16px;margin:1.67em 0}h6{font-size:14px;margin:2.33em 0}h1,h2,h3{line-height:1.4}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}blockquote{margin:1em 40px}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}p,pre{margin:1em 0}code,kbd,pre,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:after,q:before{content:'';content:none}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ol,nav ul{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0 12px 0 0}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;*overflow:visible}button[disabled],html input[disabled]{cursor:default}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0;*height:13px;*width:13px;width:13px}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}.ir{background-color:transparent;border:0;overflow:hidden;*text-indent:-9999px}.ir:before{content:"";display:block;width:0;height:150%}.hidden{display:none!important;visibility:hidden}.visuallyhidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.invisible{visibility:hidden}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}.clearfix{*zoom:1}
+.owl-item{text-align:center}
+.landing-navigator{z-index:999 !important}
+.sectionheading h2{font-size:38px !important}
+.sectionheading span{color:#000}
+.input_data input,.input_data textarea{width: 70%}
+.input_data label{width: 20%;max-width:90px;display: inline-block}
+.submit_btn input[type="submit"]{margin-left: 21%}
+a.fb_icons,a.g_icons{
+    width:20px;
+    height:20px;
+    display:inline-block;
+    margin: 0 5px}
+a.fb_icons:before{content:"\f09a";}
+a.g_icons:before{content:"\f0d5";}
+.landingmasonryclear{
+    display:none !important;
+}
+.heading-text{
+    color:#fff !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    font-size:38px !important;
+    font-weight: bold;
+}
+.navcontent a, .topnavigationwoo .accountdrop li a{
+	padding: 0 10px !important;
+}
+.social_widget a{border: 1px solid #000000;
+	color: #000000;
+	display: inline-block;
+	line-height: 22px;
+	margin: 0 0 0 5px;
+	min-width: 22px;
+	padding: 0;
+	text-align: center;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition-property: color, border-color;
+	-moz-transition-property: color, border-color;
+	-ms-transition-property: color, border-color;
+	-o-transition-property: color, border-color;
+	transition-property: color, border-color;
+	border: 1px solid #fff;
+}
+.social_widget a:hover{border: 1px solid #666}
+.navcontent a{padding:0 10px !important}
+body.landingpage.toptransparent .topnavigation.transparentbg, body.fullscreenslider .topnavigation.transparentbg, body.normaltransparent .topnavigation{background: #fff !important}
+.navcontent a, .topnavigationwoo .accountdrop li a,body.toptransparent .topnavigationwoo .topaccount span, body.toptransparent .topnavigationwoo .topcart > a, body.toptransparent .topnavigationwoo .toplogin > a:before, body.toptransparent .topnavigation .footsocial a, body.toptransparent .topnavigationsearch{color: #000 !important}
+.navcontent a:hover{color: #ccc !important}
+.topnavigation #mega_main_menu.top_navigation > .menu_holder > .menu_inner > .nav_logo > .mobile_toggle > .mobile_button, .topnavigation #mega_main_menu.top_navigation > .menu_holder > .menu_inner > ul > li > .item_link, .topnavigation #mega_main_menu.top_navigation > .menu_holder > .menu_inner > ul > li > .item_link *{
+	letter-spacing: 1px !important;
+}
+#mega_main_menu > .menu_holder > .menu_inner > ul > li > .item_link{
+	padding: 0 10px;
+}
+.wpb_single_image .vc_single_image-wrapper{
+	display: inherit !important;
+}
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+.vc_separator.vc_separator_align_center h4{
+    min-width: 250px;
+    white-space: normal;
+    line-height: 25px;
+}
+.input_data label {
+    display: block;
+    max-width: initial;
+    width: auto;
+}
+.input_data input, .input_data textarea{
+    width: 100%;
+}
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
